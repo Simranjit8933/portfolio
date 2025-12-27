@@ -21,4 +21,6 @@ A modern, responsive portfolio showcasing my skills, projects, and contact infor
 - ScrollReveal.js
 - LocalStorage for dark mode
 - Netlify / GitHub Pages for deployment
-
+  
+##Live demo
+https://simranjit8933.github.io/portfolio/
